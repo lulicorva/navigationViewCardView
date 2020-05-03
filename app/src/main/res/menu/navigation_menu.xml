@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Inicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/itemInicio"/>
+    <item
+        android:title="Mi perfil"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:id="@+id/itemMiPerfil"/>
+    <item
+        android:title="Configuracion"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:id="@+id/itemConfiguracion"/>
+    <item
+        android:title="Favoritos"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:id="@+id/itemFavoritos"/>
+</menu>
